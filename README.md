@@ -20,7 +20,7 @@ Developed an interactive Tableau dashboard to analyze COVID-19 trends across Ind
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](C:\Users\anugr\OneDrive\Pictures\Screenshots\Screenshot 2026-06-04 111630.png)
 
 ## Key Insights
 - Tracked infection and recovery trends over time.
